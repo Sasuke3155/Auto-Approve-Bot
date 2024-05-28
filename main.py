@@ -6,10 +6,10 @@ from database import add_user, add_group, all_users, all_groups, users, remove_u
 import random, asyncio
 from configs import cfg
     
-    API_ID="1490" #ApI ID Get it on my.telegram.org
-    BOT_TOKEN="6235334259:AAFJLtvsTDG_JOTIeMxK7I" #BOT Token Get In On @Botfather
-    API_HASH="a46f7b439d0afaa69fc450f754e9" #API Hash
-    BOT_USERNAME="" #without @ 
+    API_ID="26977508" #ApI ID Get it on my.telegram.org
+    BOT_TOKEN="7263324595:AAGBFujS3QCBbWyij8JgYhnkZbKuQH12FeM" #BOT Token Get In On @Botfather
+    API_HASH="396589629e6705c592bc7fe891dc6e37" #API Hash
+    BOT_USERNAME="ReqAccepterRobot" #without @ 
  
 app = Client(
     "approver",
